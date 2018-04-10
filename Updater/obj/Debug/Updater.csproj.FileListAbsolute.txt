@@ -1,0 +1,5 @@
+C:\shared\kerbal space program\LunaMultiPlayer\Updater\bin\Debug\Updater.exe
+C:\shared\kerbal space program\LunaMultiPlayer\Updater\bin\Debug\Updater.pdb
+C:\shared\kerbal space program\LunaMultiPlayer\Updater\obj\Debug\Updater.csprojResolveAssemblyReference.cache
+C:\shared\kerbal space program\LunaMultiPlayer\Updater\obj\Debug\Updater.exe
+C:\shared\kerbal space program\LunaMultiPlayer\Updater\obj\Debug\Updater.pdb
